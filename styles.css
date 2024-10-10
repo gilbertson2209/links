@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #004d4d;
+  background-color: #224395;
   /* Deep teal background */
   display: flex;
   justify-content: center;
@@ -39,7 +39,7 @@ h1 {
   padding: 15px;
   text-decoration: none;
   background-color: #ffffff;
-  color: #004d4d;
+  color: #224395;
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
